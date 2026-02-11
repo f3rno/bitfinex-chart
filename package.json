@@ -12,7 +12,7 @@
     "bfx-hf-indicators": "^2.0.3",
     "bfx-hf-util": "^1.0.5",
     "classnames": "^2.2.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "moment": "^2.24.0",
     "mouse-wheel": "^1.2.0",
     "randomcolor": "^0.5.4",
